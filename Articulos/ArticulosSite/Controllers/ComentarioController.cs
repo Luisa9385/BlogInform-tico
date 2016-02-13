@@ -1,4 +1,5 @@
 ﻿using Articulos.BL;
+using Articulos.DAC;
 using Articulos.Entities;
 using ArticulosSite.Models;
 using System;
@@ -14,6 +15,13 @@ namespace ArticulosSite.Controllers
     {
 
         private IArticuloService ArticuloService;
+
+        public ComentarioController()
+        {
+            var rep = new ArticuloRepositorio();
+            var GrammarService = new GrammarService();
+            this.ArticuloService = new ArticuloService(rep, GrammarService);
+        }
 
         public ComentarioController(IArticuloService ArticuloService)
         {
@@ -43,7 +51,7 @@ namespace ArticulosSite.Controllers
                 Model.Articulo_id = (int)Session["Articulo_id"];
                 var input = AutoMapper.Mapper.Map<Comentario>(Model);
                 this.ArticuloService.CreateComentario(input);
-               Session["Articulo_id"] = null;
+                Session["Articulo_id"] = null;
                 return this.RedirectToAction("Details", "Articulos", new { id = Model.Articulo_id });
             }
             else

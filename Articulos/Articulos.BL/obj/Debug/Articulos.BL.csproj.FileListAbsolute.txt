@@ -152,17 +152,3 @@ C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL\b
 C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL\obj\Debug\Articulos.BL.csprojResolveAssemblyReference.cache
 C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL\obj\Debug\Articulos.BL.dll
 C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL\obj\Debug\Articulos.BL.pdb
-C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Articulos.BL.dll
-C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Articulos.BL.pdb
-C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Articulos.DAC.dll
-C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Articulos.Entities.dll
-C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\EntityFramework.dll
-C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Dapper.dll
-C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Articulos.DAC.pdb
-C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Articulos.Entities.pdb
-C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\EntityFramework.xml
-C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Dapper.pdb
-C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Dapper.xml
-C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL\obj\Debug\Articulos.BL.csprojResolveAssemblyReference.cache
-C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL\obj\Debug\Articulos.BL.dll
-C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL\obj\Debug\Articulos.BL.pdb

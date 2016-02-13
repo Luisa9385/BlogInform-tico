@@ -46,7 +46,4 @@ C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.Enti
 C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.Entities\bin\Debug\Articulos.Entities.pdb
 C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.dll
 C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.pdb
-C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.Entities\bin\Debug\Articulos.Entities.dll
-C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.Entities\bin\Debug\Articulos.Entities.pdb
-C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.dll
-C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.pdb
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.csprojResolveAssemblyReference.cache
