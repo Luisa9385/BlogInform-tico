@@ -1,0 +1,840 @@
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\ArticulosSite.dll.config
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\ArticulosSite.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\ArticulosSite.pdb
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Antlr3.Runtime.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Articulos.DAC.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Articulos.Entities.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\EntityFramework.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\EntityFramework.SqlServer.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Microsoft.Owin.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Google.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Microsoft.Web.Infrastructure.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Newtonsoft.Json.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Owin.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\System.Web.Helpers.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\System.Web.Mvc.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\System.Web.Optimization.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\System.Web.Razor.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\System.Web.WebPages.Deployment.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\System.Web.WebPages.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\System.Web.WebPages.Razor.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\WebGrease.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Dapper.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Articulos.DAC.pdb
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Articulos.Entities.pdb
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\System.Web.Helpers.xml
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\System.Web.Mvc.xml
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\System.Web.Optimization.xml
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\System.Web.Razor.xml
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\System.Web.WebPages.xml
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\System.Web.WebPages.Deployment.xml
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\System.Web.WebPages.Razor.xml
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Antlr3.Runtime.pdb
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Newtonsoft.Json.xml
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\EntityFramework.xml
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\EntityFramework.SqlServer.xml
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Microsoft.Owin.xml
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.xml
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Google.xml
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Dapper.pdb
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Dapper.xml
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\obj\Debug\ArticulosSite.csprojResolveAssemblyReference.cache
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\obj\Debug\ArticulosSite.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\obj\Debug\ArticulosSite.pdb
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Articulos.BL.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\Articulos.BL.pdb
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\AutoMapper.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\ArticulosSite\bin\AutoMapper.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\ArticulosSite.dll.config
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\ArticulosSite.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\ArticulosSite.pdb
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Antlr3.Runtime.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Articulos.BL.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Articulos.DAC.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Articulos.Entities.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\AutoMapper.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\EntityFramework.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\EntityFramework.SqlServer.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Microsoft.Owin.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Newtonsoft.Json.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Owin.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\System.Web.Helpers.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\System.Web.Mvc.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\System.Web.Optimization.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\System.Web.Razor.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\System.Web.WebPages.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\WebGrease.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Dapper.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Articulos.BL.pdb
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Articulos.DAC.pdb
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Articulos.Entities.pdb
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\AutoMapper.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\System.Web.Helpers.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\System.Web.Mvc.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\System.Web.Optimization.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\System.Web.Razor.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\System.Web.WebPages.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Antlr3.Runtime.pdb
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Newtonsoft.Json.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\EntityFramework.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\EntityFramework.SqlServer.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Microsoft.Owin.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Dapper.pdb
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\bin\Dapper.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\obj\Debug\ArticulosSite.csprojResolveAssemblyReference.cache
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\obj\Debug\ArticulosSite.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\ArticulosSite\obj\Debug\ArticulosSite.pdb
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\ArticulosSite.dll.config
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\ArticulosSite.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\ArticulosSite.pdb
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Antlr3.Runtime.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Articulos.BL.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Articulos.DAC.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Articulos.Entities.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\AutoMapper.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\EntityFramework.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\EntityFramework.SqlServer.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Newtonsoft.Json.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Owin.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\System.Web.Helpers.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\System.Web.Mvc.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\System.Web.Optimization.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\System.Web.Razor.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\System.Web.WebPages.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\WebGrease.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Dapper.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Articulos.BL.pdb
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Articulos.DAC.pdb
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Articulos.Entities.pdb
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\AutoMapper.xml
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\System.Web.Helpers.xml
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\System.Web.Mvc.xml
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\System.Web.Optimization.xml
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\System.Web.Razor.xml
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\System.Web.WebPages.xml
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Antlr3.Runtime.pdb
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Newtonsoft.Json.xml
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\EntityFramework.xml
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\EntityFramework.SqlServer.xml
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.xml
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.xml
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Dapper.pdb
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\bin\Dapper.xml
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\obj\Debug\ArticulosSite.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\obj\Debug\ArticulosSite.pdb
+C:\Users\Ingeniers-LyM\Desktop\Articulos\ArticulosSite\obj\Debug\ArticulosSite.csprojResolveAssemblyReference.cache
+M:\Articulos\ArticulosSite\bin\ArticulosSite.dll.config
+M:\Articulos\ArticulosSite\bin\ArticulosSite.dll
+M:\Articulos\ArticulosSite\bin\ArticulosSite.pdb
+M:\Articulos\ArticulosSite\bin\Antlr3.Runtime.dll
+M:\Articulos\ArticulosSite\bin\Articulos.BL.dll
+M:\Articulos\ArticulosSite\bin\Articulos.DAC.dll
+M:\Articulos\ArticulosSite\bin\Articulos.Entities.dll
+M:\Articulos\ArticulosSite\bin\AutoMapper.dll
+M:\Articulos\ArticulosSite\bin\EntityFramework.dll
+M:\Articulos\ArticulosSite\bin\EntityFramework.SqlServer.dll
+M:\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Core.dll
+M:\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+M:\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Owin.dll
+M:\Articulos\ArticulosSite\bin\Microsoft.Owin.dll
+M:\Articulos\ArticulosSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+M:\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Cookies.dll
+M:\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.dll
+M:\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Facebook.dll
+M:\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Google.dll
+M:\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+M:\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.OAuth.dll
+M:\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Twitter.dll
+M:\Articulos\ArticulosSite\bin\Microsoft.Web.Infrastructure.dll
+M:\Articulos\ArticulosSite\bin\Newtonsoft.Json.dll
+M:\Articulos\ArticulosSite\bin\Owin.dll
+M:\Articulos\ArticulosSite\bin\System.Web.Helpers.dll
+M:\Articulos\ArticulosSite\bin\System.Web.Mvc.dll
+M:\Articulos\ArticulosSite\bin\System.Web.Optimization.dll
+M:\Articulos\ArticulosSite\bin\System.Web.Razor.dll
+M:\Articulos\ArticulosSite\bin\System.Web.WebPages.Deployment.dll
+M:\Articulos\ArticulosSite\bin\System.Web.WebPages.dll
+M:\Articulos\ArticulosSite\bin\System.Web.WebPages.Razor.dll
+M:\Articulos\ArticulosSite\bin\WebGrease.dll
+M:\Articulos\ArticulosSite\bin\Dapper.dll
+M:\Articulos\ArticulosSite\bin\Articulos.BL.pdb
+M:\Articulos\ArticulosSite\bin\Articulos.DAC.pdb
+M:\Articulos\ArticulosSite\bin\Articulos.Entities.pdb
+M:\Articulos\ArticulosSite\bin\AutoMapper.xml
+M:\Articulos\ArticulosSite\bin\System.Web.Helpers.xml
+M:\Articulos\ArticulosSite\bin\System.Web.Mvc.xml
+M:\Articulos\ArticulosSite\bin\System.Web.Optimization.xml
+M:\Articulos\ArticulosSite\bin\System.Web.Razor.xml
+M:\Articulos\ArticulosSite\bin\System.Web.WebPages.xml
+M:\Articulos\ArticulosSite\bin\System.Web.WebPages.Deployment.xml
+M:\Articulos\ArticulosSite\bin\System.Web.WebPages.Razor.xml
+M:\Articulos\ArticulosSite\bin\Antlr3.Runtime.pdb
+M:\Articulos\ArticulosSite\bin\Newtonsoft.Json.xml
+M:\Articulos\ArticulosSite\bin\EntityFramework.xml
+M:\Articulos\ArticulosSite\bin\EntityFramework.SqlServer.xml
+M:\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Core.xml
+M:\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Owin.xml
+M:\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+M:\Articulos\ArticulosSite\bin\Microsoft.Owin.xml
+M:\Articulos\ArticulosSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+M:\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.xml
+M:\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Facebook.xml
+M:\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Cookies.xml
+M:\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.OAuth.xml
+M:\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Google.xml
+M:\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Twitter.xml
+M:\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+M:\Articulos\ArticulosSite\bin\Dapper.pdb
+M:\Articulos\ArticulosSite\bin\Dapper.xml
+M:\Articulos\ArticulosSite\obj\Debug\ArticulosSite.csprojResolveAssemblyReference.cache
+M:\Articulos\ArticulosSite\obj\Debug\ArticulosSite.dll
+M:\Articulos\ArticulosSite\obj\Debug\ArticulosSite.pdb
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\ArticulosSite.dll.config
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\ArticulosSite.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\ArticulosSite.pdb
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Antlr3.Runtime.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Articulos.BL.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Articulos.DAC.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Articulos.Entities.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\AutoMapper.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\EntityFramework.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Newtonsoft.Json.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Owin.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\System.Web.Helpers.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\System.Web.Mvc.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\System.Web.Optimization.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\System.Web.Razor.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\System.Web.WebPages.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\WebGrease.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Dapper.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Articulos.BL.pdb
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Articulos.DAC.pdb
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Articulos.Entities.pdb
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\AutoMapper.xml
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\System.Web.Helpers.xml
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\System.Web.Mvc.xml
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\System.Web.Optimization.xml
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\System.Web.Razor.xml
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\System.Web.WebPages.xml
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Antlr3.Runtime.pdb
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Newtonsoft.Json.xml
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\EntityFramework.xml
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.xml
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Dapper.pdb
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\bin\Dapper.xml
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\obj\Debug\ArticulosSite.dll
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\obj\Debug\ArticulosSite.pdb
+C:\Users\Administrador\Desktop\Articulos\ArticulosSite\obj\Debug\ArticulosSite.csprojResolveAssemblyReference.cache
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\ArticulosSite.dll.config
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\ArticulosSite.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\ArticulosSite.pdb
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Antlr3.Runtime.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Articulos.BL.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Articulos.DAC.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Articulos.Entities.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\AutoMapper.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\EntityFramework.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\EntityFramework.SqlServer.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Newtonsoft.Json.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Owin.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\System.Web.Helpers.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\System.Web.Mvc.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\System.Web.Optimization.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\System.Web.Razor.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\System.Web.WebPages.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\WebGrease.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Dapper.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Articulos.BL.pdb
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Articulos.DAC.pdb
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Articulos.Entities.pdb
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\AutoMapper.xml
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\System.Web.Helpers.xml
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\System.Web.Mvc.xml
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\System.Web.Optimization.xml
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\System.Web.Razor.xml
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\System.Web.WebPages.xml
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Antlr3.Runtime.pdb
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Newtonsoft.Json.xml
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\EntityFramework.xml
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\EntityFramework.SqlServer.xml
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.xml
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.xml
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Dapper.pdb
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\bin\Dapper.xml
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\obj\Debug\ArticulosSite.csprojResolveAssemblyReference.cache
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\obj\Debug\ArticulosSite.dll
+C:\Users\Ing. Marco\Desktop\Articulos\ArticulosSite\obj\Debug\ArticulosSite.pdb
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\ArticulosSite.dll.config
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\ArticulosSite.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\ArticulosSite.pdb
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Antlr3.Runtime.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Articulos.BL.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Articulos.DAC.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Articulos.Entities.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\AutoMapper.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\EntityFramework.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\EntityFramework.SqlServer.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Microsoft.Owin.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Newtonsoft.Json.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Owin.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\System.Web.Helpers.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\System.Web.Mvc.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\System.Web.Optimization.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\System.Web.Razor.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\System.Web.WebPages.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\WebGrease.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Dapper.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Articulos.BL.pdb
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Articulos.DAC.pdb
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Articulos.Entities.pdb
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\AutoMapper.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\System.Web.Helpers.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\System.Web.Mvc.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\System.Web.Optimization.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\System.Web.Razor.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\System.Web.WebPages.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Antlr3.Runtime.pdb
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Newtonsoft.Json.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\EntityFramework.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\EntityFramework.SqlServer.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Microsoft.Owin.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Dapper.pdb
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\bin\Dapper.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\obj\Debug\ArticulosSite.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\obj\Debug\ArticulosSite.pdb
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\ArticulosSite\obj\Debug\ArticulosSite.csprojResolveAssemblyReference.cache
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\ArticulosSite.dll.config
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\ArticulosSite.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\ArticulosSite.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Antlr3.Runtime.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Articulos.BL.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Articulos.DAC.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Articulos.Entities.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\AutoMapper.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\EntityFramework.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\EntityFramework.SqlServer.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Microsoft.Owin.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Google.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Microsoft.Web.Infrastructure.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Newtonsoft.Json.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Owin.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\System.Web.Helpers.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\System.Web.Mvc.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\System.Web.Optimization.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\System.Web.Razor.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\System.Web.WebPages.Deployment.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\System.Web.WebPages.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\System.Web.WebPages.Razor.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\WebGrease.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Dapper.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Articulos.BL.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Articulos.DAC.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Articulos.Entities.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\AutoMapper.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\System.Web.Helpers.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\System.Web.Mvc.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\System.Web.Optimization.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\System.Web.Razor.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\System.Web.WebPages.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\System.Web.WebPages.Deployment.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\System.Web.WebPages.Razor.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Antlr3.Runtime.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Newtonsoft.Json.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\EntityFramework.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\EntityFramework.SqlServer.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Microsoft.Owin.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Google.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Dapper.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\bin\Dapper.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\obj\Debug\ArticulosSite.csprojResolveAssemblyReference.cache
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\obj\Debug\ArticulosSite.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\ArticulosSite\obj\Debug\ArticulosSite.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\ArticulosSite.dll.config
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\ArticulosSite.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\ArticulosSite.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Antlr3.Runtime.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Articulos.BL.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Articulos.DAC.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Articulos.Entities.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\AutoMapper.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\EntityFramework.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\EntityFramework.SqlServer.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Owin.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Google.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Practices.ServiceLocation.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.Mvc.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Web.Infrastructure.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Newtonsoft.Json.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Owin.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\System.Web.Helpers.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\System.Web.Mvc.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\System.Web.Optimization.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\System.Web.Razor.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\System.Web.WebPages.Deployment.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\System.Web.WebPages.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\System.Web.WebPages.Razor.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\WebActivatorEx.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\WebGrease.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Dapper.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Articulos.BL.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Articulos.DAC.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Articulos.Entities.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\AutoMapper.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Practices.ServiceLocation.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.Configuration.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.Mvc.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\System.Web.Helpers.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\System.Web.Mvc.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\System.Web.Optimization.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\System.Web.Razor.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\System.Web.WebPages.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\System.Web.WebPages.Deployment.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\System.Web.WebPages.Razor.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Antlr3.Runtime.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Newtonsoft.Json.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\EntityFramework.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\EntityFramework.SqlServer.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Owin.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Google.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Dapper.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\bin\Dapper.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\obj\Debug\ArticulosSite.csprojResolveAssemblyReference.cache
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\obj\Debug\ArticulosSite.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\ArticulosSite\obj\Debug\ArticulosSite.pdb
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\ArticulosSite.dll.config
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\ArticulosSite.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\ArticulosSite.pdb
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Antlr3.Runtime.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Articulos.BL.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Articulos.DAC.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Articulos.Entities.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\AutoMapper.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\EntityFramework.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\EntityFramework.SqlServer.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Google.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.ServiceLocation.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.Configuration.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.Mvc.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Web.Infrastructure.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Newtonsoft.Json.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Owin.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.Helpers.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.Mvc.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.Optimization.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.Razor.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.WebPages.Deployment.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.WebPages.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.WebPages.Razor.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\WebActivatorEx.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\WebGrease.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Dapper.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Articulos.BL.pdb
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Articulos.DAC.pdb
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Articulos.Entities.pdb
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\AutoMapper.xml
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.ServiceLocation.pdb
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.ServiceLocation.xml
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.xml
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.Configuration.xml
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.Mvc.xml
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.Helpers.xml
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.Mvc.xml
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.Optimization.xml
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.Razor.xml
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.WebPages.xml
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.WebPages.Deployment.xml
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.WebPages.Razor.xml
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Antlr3.Runtime.pdb
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Newtonsoft.Json.xml
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\EntityFramework.xml
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\EntityFramework.SqlServer.xml
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.xml
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.xml
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Google.xml
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Dapper.pdb
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Dapper.xml
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\obj\Debug\ArticulosSite.csprojResolveAssemblyReference.cache
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\obj\Debug\ArticulosSite.dll
+F:\Listo\ArticulosConPrueba\Articulos\ArticulosSite\obj\Debug\ArticulosSite.pdb
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\ArticulosSite.dll.config
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\ArticulosSite.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\ArticulosSite.pdb
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Antlr3.Runtime.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Articulos.BL.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Articulos.DAC.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Articulos.Entities.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\AutoMapper.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\EntityFramework.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Newtonsoft.Json.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Owin.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.Helpers.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.Mvc.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.Optimization.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.Razor.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.WebPages.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\WebActivatorEx.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\WebGrease.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Dapper.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Articulos.BL.pdb
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Articulos.DAC.pdb
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Articulos.Entities.pdb
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\AutoMapper.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.Helpers.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.Mvc.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.Optimization.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.Razor.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.WebPages.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Antlr3.Runtime.pdb
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Newtonsoft.Json.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\EntityFramework.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Dapper.pdb
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\bin\Dapper.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\obj\Debug\ArticulosSite.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\obj\Debug\ArticulosSite.pdb
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\ArticulosSite\obj\Debug\ArticulosSite.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\ArticulosSite.dll.config
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\ArticulosSite.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\ArticulosSite.pdb
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Antlr3.Runtime.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Articulos.BL.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Articulos.DAC.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Articulos.Entities.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\AutoMapper.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\EntityFramework.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Newtonsoft.Json.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Owin.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.Helpers.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.Mvc.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.Optimization.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.Razor.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.WebPages.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\WebActivatorEx.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\WebGrease.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Dapper.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Articulos.BL.pdb
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Articulos.DAC.pdb
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Articulos.Entities.pdb
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\AutoMapper.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.Helpers.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.Mvc.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.Optimization.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.Razor.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.WebPages.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Antlr3.Runtime.pdb
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Newtonsoft.Json.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\EntityFramework.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Dapper.pdb
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\bin\Dapper.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\obj\Debug\ArticulosSite.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\obj\Debug\ArticulosSite.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\ArticulosSite\obj\Debug\ArticulosSite.pdb

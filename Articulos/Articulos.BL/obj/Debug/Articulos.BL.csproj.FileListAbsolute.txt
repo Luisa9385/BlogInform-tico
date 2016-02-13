@@ -1,0 +1,168 @@
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.BL\bin\Debug\Articulos.BL.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.BL\bin\Debug\Articulos.BL.pdb
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.BL\bin\Debug\Articulos.DAC.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.BL\bin\Debug\Articulos.Entities.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.BL\bin\Debug\EntityFramework.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.BL\bin\Debug\Dapper.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.BL\bin\Debug\Articulos.DAC.pdb
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.BL\bin\Debug\Articulos.Entities.pdb
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.BL\bin\Debug\EntityFramework.xml
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.BL\bin\Debug\Dapper.pdb
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.BL\bin\Debug\Dapper.xml
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.BL\obj\Debug\Articulos.BL.csprojResolveAssemblyReference.cache
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.BL\obj\Debug\Articulos.BL.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.BL\obj\Debug\Articulos.BL.pdb
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.BL\bin\Debug\Articulos.BL.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.BL\bin\Debug\Articulos.BL.pdb
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.BL\bin\Debug\Articulos.DAC.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.BL\bin\Debug\Articulos.Entities.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.BL\bin\Debug\EntityFramework.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.BL\bin\Debug\Dapper.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.BL\bin\Debug\Articulos.DAC.pdb
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.BL\bin\Debug\Articulos.Entities.pdb
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.BL\bin\Debug\EntityFramework.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.BL\bin\Debug\Dapper.pdb
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.BL\bin\Debug\Dapper.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.BL\obj\Debug\Articulos.BL.csprojResolveAssemblyReference.cache
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.BL\obj\Debug\Articulos.BL.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.BL\obj\Debug\Articulos.BL.pdb
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.BL\bin\Debug\Articulos.BL.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.BL\bin\Debug\Articulos.BL.pdb
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.BL\bin\Debug\Articulos.DAC.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.BL\bin\Debug\Articulos.Entities.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.BL\bin\Debug\EntityFramework.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.BL\bin\Debug\Dapper.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.BL\bin\Debug\Articulos.DAC.pdb
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.BL\bin\Debug\Articulos.Entities.pdb
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.BL\bin\Debug\EntityFramework.xml
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.BL\bin\Debug\Dapper.pdb
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.BL\bin\Debug\Dapper.xml
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.BL\obj\Debug\Articulos.BL.csprojResolveAssemblyReference.cache
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.BL\obj\Debug\Articulos.BL.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.BL\obj\Debug\Articulos.BL.pdb
+M:\Articulos\Articulos.BL\bin\Debug\Articulos.BL.dll
+M:\Articulos\Articulos.BL\bin\Debug\Articulos.BL.pdb
+M:\Articulos\Articulos.BL\bin\Debug\Articulos.DAC.dll
+M:\Articulos\Articulos.BL\bin\Debug\Articulos.Entities.dll
+M:\Articulos\Articulos.BL\bin\Debug\EntityFramework.dll
+M:\Articulos\Articulos.BL\bin\Debug\Dapper.dll
+M:\Articulos\Articulos.BL\bin\Debug\Articulos.DAC.pdb
+M:\Articulos\Articulos.BL\bin\Debug\Articulos.Entities.pdb
+M:\Articulos\Articulos.BL\bin\Debug\EntityFramework.xml
+M:\Articulos\Articulos.BL\bin\Debug\Dapper.pdb
+M:\Articulos\Articulos.BL\bin\Debug\Dapper.xml
+M:\Articulos\Articulos.BL\obj\Debug\Articulos.BL.csprojResolveAssemblyReference.cache
+M:\Articulos\Articulos.BL\obj\Debug\Articulos.BL.dll
+M:\Articulos\Articulos.BL\obj\Debug\Articulos.BL.pdb
+C:\Users\Administrador\Desktop\Articulos\Articulos.BL\bin\Debug\Articulos.BL.dll
+C:\Users\Administrador\Desktop\Articulos\Articulos.BL\bin\Debug\Articulos.BL.pdb
+C:\Users\Administrador\Desktop\Articulos\Articulos.BL\bin\Debug\Articulos.DAC.dll
+C:\Users\Administrador\Desktop\Articulos\Articulos.BL\bin\Debug\Articulos.Entities.dll
+C:\Users\Administrador\Desktop\Articulos\Articulos.BL\bin\Debug\EntityFramework.dll
+C:\Users\Administrador\Desktop\Articulos\Articulos.BL\bin\Debug\Dapper.dll
+C:\Users\Administrador\Desktop\Articulos\Articulos.BL\bin\Debug\Articulos.DAC.pdb
+C:\Users\Administrador\Desktop\Articulos\Articulos.BL\bin\Debug\Articulos.Entities.pdb
+C:\Users\Administrador\Desktop\Articulos\Articulos.BL\bin\Debug\EntityFramework.xml
+C:\Users\Administrador\Desktop\Articulos\Articulos.BL\bin\Debug\Dapper.pdb
+C:\Users\Administrador\Desktop\Articulos\Articulos.BL\bin\Debug\Dapper.xml
+C:\Users\Administrador\Desktop\Articulos\Articulos.BL\obj\Debug\Articulos.BL.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Articulos\Articulos.BL\obj\Debug\Articulos.BL.dll
+C:\Users\Administrador\Desktop\Articulos\Articulos.BL\obj\Debug\Articulos.BL.pdb
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.BL\obj\Debug\Articulos.BL.csprojResolveAssemblyReference.cache
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.BL\obj\Debug\Articulos.BL.dll
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.BL\obj\Debug\Articulos.BL.pdb
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.BL\bin\Debug\Articulos.BL.dll
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.BL\bin\Debug\Articulos.BL.pdb
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.BL\bin\Debug\Articulos.DAC.dll
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.BL\bin\Debug\Articulos.Entities.dll
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.BL\bin\Debug\EntityFramework.dll
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.BL\bin\Debug\Dapper.dll
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.BL\bin\Debug\Articulos.DAC.pdb
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.BL\bin\Debug\Articulos.Entities.pdb
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.BL\bin\Debug\EntityFramework.xml
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.BL\bin\Debug\Dapper.pdb
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.BL\bin\Debug\Dapper.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.BL\bin\Debug\Articulos.BL.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.BL\bin\Debug\Articulos.BL.pdb
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.BL\bin\Debug\Articulos.DAC.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.BL\bin\Debug\Articulos.Entities.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.BL\bin\Debug\EntityFramework.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.BL\bin\Debug\Dapper.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.BL\bin\Debug\Articulos.DAC.pdb
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.BL\bin\Debug\Articulos.Entities.pdb
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.BL\bin\Debug\EntityFramework.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.BL\bin\Debug\Dapper.pdb
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.BL\bin\Debug\Dapper.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.BL\obj\Debug\Articulos.BL.csprojResolveAssemblyReference.cache
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.BL\obj\Debug\Articulos.BL.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.BL\obj\Debug\Articulos.BL.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.BL\bin\Debug\Articulos.BL.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.BL\bin\Debug\Articulos.BL.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.BL\bin\Debug\Articulos.DAC.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.BL\bin\Debug\Articulos.Entities.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.BL\bin\Debug\EntityFramework.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.BL\bin\Debug\Dapper.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.BL\bin\Debug\Articulos.DAC.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.BL\bin\Debug\Articulos.Entities.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.BL\bin\Debug\EntityFramework.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.BL\bin\Debug\Dapper.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.BL\bin\Debug\Dapper.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.BL\obj\Debug\Articulos.BL.csprojResolveAssemblyReference.cache
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.BL\obj\Debug\Articulos.BL.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.BL\obj\Debug\Articulos.BL.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL\bin\Debug\Articulos.BL.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL\bin\Debug\Articulos.BL.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL\bin\Debug\Articulos.DAC.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL\bin\Debug\Articulos.Entities.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL\bin\Debug\EntityFramework.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL\bin\Debug\Dapper.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL\bin\Debug\Articulos.DAC.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL\bin\Debug\Articulos.Entities.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL\bin\Debug\EntityFramework.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL\bin\Debug\Dapper.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL\bin\Debug\Dapper.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL\obj\Debug\Articulos.BL.csprojResolveAssemblyReference.cache
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL\obj\Debug\Articulos.BL.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL\obj\Debug\Articulos.BL.pdb
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Articulos.BL.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Articulos.BL.pdb
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Articulos.DAC.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Articulos.Entities.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\EntityFramework.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Dapper.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Articulos.DAC.pdb
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Articulos.Entities.pdb
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\EntityFramework.xml
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Dapper.pdb
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Dapper.xml
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL\obj\Debug\Articulos.BL.csprojResolveAssemblyReference.cache
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL\obj\Debug\Articulos.BL.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL\obj\Debug\Articulos.BL.pdb
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Articulos.BL.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Articulos.BL.pdb
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Articulos.DAC.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Articulos.Entities.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\EntityFramework.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Dapper.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Articulos.DAC.pdb
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Articulos.Entities.pdb
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\EntityFramework.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Dapper.pdb
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Dapper.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL\obj\Debug\Articulos.BL.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL\obj\Debug\Articulos.BL.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL\obj\Debug\Articulos.BL.pdb
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Articulos.BL.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Articulos.BL.pdb
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Articulos.DAC.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Articulos.Entities.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\EntityFramework.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Dapper.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Articulos.DAC.pdb
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Articulos.Entities.pdb
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\EntityFramework.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Dapper.pdb
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL\bin\Debug\Dapper.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL\obj\Debug\Articulos.BL.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL\obj\Debug\Articulos.BL.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL\obj\Debug\Articulos.BL.pdb

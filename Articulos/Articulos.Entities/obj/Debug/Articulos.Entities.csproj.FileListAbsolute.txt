@@ -1,0 +1,52 @@
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.Entities\bin\Debug\Articulos.Entities.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.Entities\bin\Debug\Articulos.Entities.pdb
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.pdb
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.Entities\bin\Debug\Articulos.Entities.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.Entities\bin\Debug\Articulos.Entities.pdb
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.pdb
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.Entities\bin\Debug\Articulos.Entities.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.Entities\bin\Debug\Articulos.Entities.pdb
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.pdb
+M:\Articulos\Articulos.Entities\bin\Debug\Articulos.Entities.dll
+M:\Articulos\Articulos.Entities\bin\Debug\Articulos.Entities.pdb
+M:\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.dll
+M:\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.pdb
+C:\Users\Administrador\Desktop\Articulos\Articulos.Entities\bin\Debug\Articulos.Entities.dll
+C:\Users\Administrador\Desktop\Articulos\Articulos.Entities\bin\Debug\Articulos.Entities.pdb
+C:\Users\Administrador\Desktop\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.dll
+C:\Users\Administrador\Desktop\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.pdb
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.dll
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.pdb
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.Entities\bin\Debug\Articulos.Entities.dll
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.Entities\bin\Debug\Articulos.Entities.pdb
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.Entities\bin\Debug\Articulos.Entities.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.Entities\bin\Debug\Articulos.Entities.pdb
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.Entities\bin\Debug\Articulos.Entities.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.Entities\bin\Debug\Articulos.Entities.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.csprojResolveAssemblyReference.cache
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.Entities\bin\Debug\Articulos.Entities.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.Entities\bin\Debug\Articulos.Entities.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.pdb
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.Entities\bin\Debug\Articulos.Entities.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.Entities\bin\Debug\Articulos.Entities.pdb
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.pdb
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.Entities\bin\Debug\Articulos.Entities.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.Entities\bin\Debug\Articulos.Entities.pdb
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.pdb
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.Entities\bin\Debug\Articulos.Entities.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.Entities\bin\Debug\Articulos.Entities.pdb
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.Entities\obj\Debug\Articulos.Entities.pdb

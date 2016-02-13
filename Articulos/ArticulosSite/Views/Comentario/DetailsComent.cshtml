@@ -1,0 +1,52 @@
+﻿@model Articulos.Entities.Comentario
+
+@{
+    ViewBag.Title = "DetailsComent";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Detalle de Comentario</h2>
+
+<div>
+    <h4>Comentario</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.HiddenFor(model => model.Articulo_id)
+        </dt>
+
+        <dd>
+            @Html.HiddenFor(model => model.Articulo_id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Contenido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Contenido)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Fecha)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fecha)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "EditComentario", new { id = Model.Id }) |
+    @*@Html.ActionLink("Atras", "Articulos","Details", new { id = Model.Articulo_id })*@
+    <a href="~/Articulos/Details/@Model.Articulo_id"> Atras </a>
+</p>

@@ -1,0 +1,54 @@
+﻿@model ArticulosSite.Models.RegisterViewModel
+@{
+    ViewBag.Title = "Register";
+}
+
+@*<h2>@ViewBag.Title.</h2>*@
+<div id="login">
+    <h1 class="page-header text-center">Registrate en el sistema</h1>
+
+    <div class="row">
+        <div class="col-xs-2"></div>
+        <div class="col-md-8">
+            <div class="panel panel-default">
+                <div class="panel-heading">Registrarse</div>
+                <div class="panel-body">
+                    @using (Html.BeginForm("Register", "Account", FormMethod.Post@*, new { @class = "form-horizontal", role = "form" }*@))
+                    {
+                        @Html.AntiForgeryToken()
+                            <h4>Crear una nueva cuenta.</h4>
+                            <hr />
+    
+                        @Html.ValidationSummary("", new { @class = "text-danger" })
+  
+                        <img src="~/Uploads/usuario.jpg" width="200" align="right" height="200" />
+    
+                        <div class="form-group" >
+                            @Html.LabelFor(m => m.Email, new { @class = "col-md-2 control-label" })
+                            @Html.TextBoxFor(m => m.Email, new { @class = "form-control", placeholder="Escriba su Email" })
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(m => m.Password, new { @class = "col-md-2 control-label" })
+                            @Html.PasswordFor(m => m.Password, new { @class = "form-control", placeholder = "Escriba su Contraseña" })
+                        </div>
+    
+                        <div class="form-group">
+                            @Html.LabelFor(m => m.ConfirmPassword, new { @class = "col-md-2 control-label" })
+                            @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control", placeholder = "Confirme su Contraseña" })
+                        </div>
+                        
+                        <div class="form-group">
+                            <div align="center">
+                                <input type="submit" class="btn btn-info" value="Registrese" />
+                            </div>
+                        </div>             
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>    
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

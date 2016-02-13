@@ -1,0 +1,180 @@
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.pdb
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.DAC\bin\Debug\Articulos.Entities.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.DAC\bin\Debug\Dapper.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.DAC\bin\Debug\Articulos.Entities.pdb
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.DAC\bin\Debug\Dapper.pdb
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.DAC\bin\Debug\Dapper.xml
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.csprojResolveAssemblyReference.cache
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.pdb
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.dll.config
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.DAC\bin\Debug\EntityFramework.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.DAC\bin\Debug\EntityFramework.SqlServer.dll
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.DAC\bin\Debug\EntityFramework.xml
+E:\ASP MVC IMPORTANTE\ProyectoArticuloArquitectura\Articulos\Articulos.DAC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.dll.config
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.pdb
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.DAC\bin\Debug\Articulos.Entities.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.DAC\bin\Debug\Dapper.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.DAC\bin\Debug\EntityFramework.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.DAC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.DAC\bin\Debug\Articulos.Entities.pdb
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.DAC\bin\Debug\Dapper.pdb
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.DAC\bin\Debug\Dapper.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.DAC\bin\Debug\EntityFramework.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.DAC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.csprojResolveAssemblyReference.cache
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.dll
+C:\Users\Marco\Documents\udemy\asp.net\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.pdb
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.dll.config
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.pdb
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.DAC\bin\Debug\Articulos.Entities.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.DAC\bin\Debug\Dapper.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.DAC\bin\Debug\EntityFramework.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.DAC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.DAC\bin\Debug\Articulos.Entities.pdb
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.DAC\bin\Debug\Dapper.pdb
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.DAC\bin\Debug\Dapper.xml
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.DAC\bin\Debug\EntityFramework.xml
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.DAC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.csprojResolveAssemblyReference.cache
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.dll
+C:\Users\Ingeniers-LyM\Desktop\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.pdb
+M:\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.dll.config
+M:\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.dll
+M:\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.pdb
+M:\Articulos\Articulos.DAC\bin\Debug\Articulos.Entities.dll
+M:\Articulos\Articulos.DAC\bin\Debug\Dapper.dll
+M:\Articulos\Articulos.DAC\bin\Debug\EntityFramework.dll
+M:\Articulos\Articulos.DAC\bin\Debug\EntityFramework.SqlServer.dll
+M:\Articulos\Articulos.DAC\bin\Debug\Articulos.Entities.pdb
+M:\Articulos\Articulos.DAC\bin\Debug\Dapper.pdb
+M:\Articulos\Articulos.DAC\bin\Debug\Dapper.xml
+M:\Articulos\Articulos.DAC\bin\Debug\EntityFramework.xml
+M:\Articulos\Articulos.DAC\bin\Debug\EntityFramework.SqlServer.xml
+M:\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.csprojResolveAssemblyReference.cache
+M:\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.dll
+M:\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.pdb
+C:\Users\Administrador\Desktop\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.dll.config
+C:\Users\Administrador\Desktop\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.dll
+C:\Users\Administrador\Desktop\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.pdb
+C:\Users\Administrador\Desktop\Articulos\Articulos.DAC\bin\Debug\Articulos.Entities.dll
+C:\Users\Administrador\Desktop\Articulos\Articulos.DAC\bin\Debug\Dapper.dll
+C:\Users\Administrador\Desktop\Articulos\Articulos.DAC\bin\Debug\EntityFramework.dll
+C:\Users\Administrador\Desktop\Articulos\Articulos.DAC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrador\Desktop\Articulos\Articulos.DAC\bin\Debug\Articulos.Entities.pdb
+C:\Users\Administrador\Desktop\Articulos\Articulos.DAC\bin\Debug\Dapper.pdb
+C:\Users\Administrador\Desktop\Articulos\Articulos.DAC\bin\Debug\Dapper.xml
+C:\Users\Administrador\Desktop\Articulos\Articulos.DAC\bin\Debug\EntityFramework.xml
+C:\Users\Administrador\Desktop\Articulos\Articulos.DAC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrador\Desktop\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.dll
+C:\Users\Administrador\Desktop\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.pdb
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.csprojResolveAssemblyReference.cache
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.dll
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.pdb
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.dll.config
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.dll
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.pdb
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.DAC\bin\Debug\Articulos.Entities.dll
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.DAC\bin\Debug\Dapper.dll
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.DAC\bin\Debug\EntityFramework.dll
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.DAC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.DAC\bin\Debug\Articulos.Entities.pdb
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.DAC\bin\Debug\Dapper.pdb
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.DAC\bin\Debug\Dapper.xml
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.DAC\bin\Debug\EntityFramework.xml
+C:\Users\Ing. Marco\Desktop\Articulos\Articulos.DAC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.dll.config
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.pdb
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.DAC\bin\Debug\Articulos.Entities.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.DAC\bin\Debug\Dapper.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.DAC\bin\Debug\EntityFramework.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.DAC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.DAC\bin\Debug\Articulos.Entities.pdb
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.DAC\bin\Debug\Dapper.pdb
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.DAC\bin\Debug\Dapper.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.DAC\bin\Debug\EntityFramework.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.DAC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.csprojResolveAssemblyReference.cache
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.dll
+C:\Users\Ingeniers-LyM\Desktop\proando\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.dll.config
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.DAC\bin\Debug\Articulos.Entities.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.DAC\bin\Debug\Dapper.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.DAC\bin\Debug\EntityFramework.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.DAC\bin\Debug\EntityFramework.SqlServer.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.DAC\bin\Debug\Articulos.Entities.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.DAC\bin\Debug\Dapper.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.DAC\bin\Debug\Dapper.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.DAC\bin\Debug\EntityFramework.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.DAC\bin\Debug\EntityFramework.SqlServer.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.csprojResolveAssemblyReference.cache
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\090216\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.dll.config
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.DAC\bin\Debug\Articulos.Entities.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.DAC\bin\Debug\Dapper.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.DAC\bin\Debug\EntityFramework.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.DAC\bin\Debug\EntityFramework.SqlServer.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.DAC\bin\Debug\Articulos.Entities.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.DAC\bin\Debug\Dapper.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.DAC\bin\Debug\Dapper.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.DAC\bin\Debug\EntityFramework.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.DAC\bin\Debug\EntityFramework.SqlServer.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.csprojResolveAssemblyReference.cache
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.pdb
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.dll.config
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.pdb
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\Articulos.Entities.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\Dapper.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\EntityFramework.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\EntityFramework.SqlServer.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\Articulos.Entities.pdb
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\Dapper.pdb
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\Dapper.xml
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\EntityFramework.xml
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\EntityFramework.SqlServer.xml
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.csprojResolveAssemblyReference.cache
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.pdb
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.dll.config
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.pdb
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\Articulos.Entities.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\Dapper.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\EntityFramework.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\Articulos.Entities.pdb
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\Dapper.pdb
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\Dapper.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\EntityFramework.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.pdb
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.dll.config
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\Articulos.DAC.pdb
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\Articulos.Entities.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\Dapper.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\EntityFramework.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\Articulos.Entities.pdb
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\Dapper.pdb
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\Dapper.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\EntityFramework.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.DAC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.DAC\obj\Debug\Articulos.DAC.pdb

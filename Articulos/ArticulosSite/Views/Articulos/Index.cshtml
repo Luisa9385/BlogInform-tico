@@ -1,0 +1,70 @@
+﻿@{
+    ViewBag.Title = "Inicio";
+}
+
+<h2>Listar Articulos</h2>
+<p>
+    @Html.ActionLink("Nuevo Articulo", "Create")
+</p>
+<hr/>
+
+
+<div id="list"></div>
+
+<script>
+    $(document).ready(function () {
+        $("#list").anexGrid({
+            columnas: [
+                { leyenda: 'Titulo', columna: 'Titulo', ordenable: true },
+                { leyenda: 'Autor', columna: 'Autor', style: 'width:100px;', ordenable: true},
+                { leyenda: 'Tags', columna: 'Tags', style: 'width:140px;', ordenable: true },
+                { leyenda: 'Fecha', columna: 'Fecha', style: 'width:140px;', ordenable: true },
+                { style: 'width:100px;' },
+                { style: 'width:100px;' }
+            ],
+
+            modelo: [
+                {
+                    propiedad: 'Titulo', formato: function (tr, obj, valor) {
+                        return anexGrid_link({
+                            href: '@Url.Content("~/Articulos/Details/")' + obj.Id,
+                            contenido: valor 
+                        });
+                    }
+                },
+                { propiedad: 'Autor' },
+                { propiedad: 'Tags' },
+                { propiedad: 'Fecha' },
+                // BOTONES
+                {
+                    formato: function (tr, obj, valor) {
+                        return anexGrid_link({
+                            href: '@Url.Content("~/Articulos/Edit/")' + obj.Id,
+                            contenido: 'Editar',
+                            class: 'btn btn-default btn-xs btn-block'
+                        });
+                    },
+                },
+                {
+                    formato: function (tr, obj, valor) {
+                        return anexGrid_link({
+                            href: '@Url.Content("~/Articulos/Delete/")' + obj.Id,
+                            contenido: 'Eliminar',
+                            class: 'btn btn-danger btn-xs btn-block',
+                            attr: [
+                                'onclick="return confirm(\'¿Esta seguro de eliminar este registro?\')"'
+                            ]
+                        });
+                    },
+                }
+            ],
+
+            url: '@Url.Content("~/Articulos/ListarArticulo")',
+            paginable: true,
+            limite: [20, 60, 100],
+            columna: 'Id',
+            columna_orden: 'DESC'
+        });
+     
+    })
+</script>

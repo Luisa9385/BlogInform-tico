@@ -1,0 +1,236 @@
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.BL.UnitTest.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.BL.UnitTest.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.BL.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.DAC.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.Entities.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\ArticulosSite.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\NSubstitute.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\nunit.framework.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\EntityFramework.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Dapper.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.Mvc.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.Optimization.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Owin.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Practices.Unity.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\WebActivatorEx.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.Security.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\AutoMapper.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Practices.Unity.Mvc.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.Razor.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.WebPages.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.BL.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.DAC.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.Entities.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\ArticulosSite.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\NSubstitute.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\nunit.framework.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\EntityFramework.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Dapper.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Dapper.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.Mvc.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.Optimization.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Practices.Unity.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.Security.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\AutoMapper.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Practices.Unity.Mvc.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.Razor.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.WebPages.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\obj\Debug\Articulos.BL.UnitTest.csprojResolveAssemblyReference.cache
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\obj\Debug\Articulos.BL.UnitTest.dll
+E:\ASP MVC IMPORTANTE\Cibertec\PROYECTO ARTICULOS FUNCIONANDO\110216\Articulos\Articulos.BL.UnitTest\obj\Debug\Articulos.BL.UnitTest.pdb
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.BL.UnitTest.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.BL.UnitTest.pdb
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.BL.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.DAC.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.Entities.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\ArticulosSite.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\NSubstitute.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\nunit.framework.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\EntityFramework.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Dapper.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.Mvc.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.Optimization.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Owin.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\WebActivatorEx.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.Security.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\AutoMapper.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Practices.Unity.Mvc.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.Razor.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.WebPages.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.BL.pdb
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.DAC.pdb
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.Entities.pdb
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\ArticulosSite.pdb
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\NSubstitute.xml
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\nunit.framework.xml
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\EntityFramework.xml
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Dapper.pdb
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Dapper.xml
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.Mvc.xml
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.Optimization.xml
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.xml
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Practices.Unity.xml
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.Security.xml
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\AutoMapper.xml
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Practices.Unity.Mvc.xml
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.Razor.xml
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.WebPages.xml
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\obj\Debug\Articulos.BL.UnitTest.csprojResolveAssemblyReference.cache
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\obj\Debug\Articulos.BL.UnitTest.dll
+F:\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\obj\Debug\Articulos.BL.UnitTest.pdb
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.BL.UnitTest.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.BL.UnitTest.pdb
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.BL.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.DAC.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.Entities.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\ArticulosSite.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\NSubstitute.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\nunit.framework.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\EntityFramework.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Dapper.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.Mvc.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.Optimization.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Owin.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\WebActivatorEx.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\AutoMapper.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.Razor.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.WebPages.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.BL.pdb
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.DAC.pdb
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.Entities.pdb
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\ArticulosSite.pdb
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\NSubstitute.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\nunit.framework.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\EntityFramework.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Dapper.pdb
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Dapper.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.Mvc.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.Optimization.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\AutoMapper.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.Razor.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.WebPages.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\obj\Debug\Articulos.BL.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\obj\Debug\Articulos.BL.UnitTest.dll
+C:\Users\Administrador\Desktop\Listo\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\obj\Debug\Articulos.BL.UnitTest.pdb
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.BL.UnitTest.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.BL.UnitTest.pdb
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.BL.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.DAC.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.Entities.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\ArticulosSite.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\NSubstitute.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\nunit.framework.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\EntityFramework.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Dapper.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.Mvc.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.Optimization.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Owin.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\WebActivatorEx.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\AutoMapper.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.Razor.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.WebPages.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.BL.pdb
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.DAC.pdb
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Articulos.Entities.pdb
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\ArticulosSite.pdb
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\NSubstitute.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\nunit.framework.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\EntityFramework.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Dapper.pdb
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Dapper.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.Mvc.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.Optimization.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\AutoMapper.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.Razor.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.WebPages.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\obj\Debug\Articulos.BL.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\obj\Debug\Articulos.BL.UnitTest.dll
+C:\Users\Administrador\Documents\ArticulosConPrueba\Articulos\Articulos.BL.UnitTest\obj\Debug\Articulos.BL.UnitTest.pdb

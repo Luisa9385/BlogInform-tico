@@ -1,0 +1,58 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<h2><span class="label label-default">Blog Informático</span></h2> 
+<div id='imgindex'>
+    <div id="wrapper">
+        <div class="slider-wrapper theme-default">
+            <div id="slider" class="nivoSlider">
+                <img src="~/img/biblioteca_virtual.jpg" alt="" width="700" height="350" />
+                <img src="~/img/images2.jpg" alt="" width="700" height="350" />
+                <img src="~/img/images3.jpg" alt="" width="700" height="350" />
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>C#, 2da Edición – Harvey M. Deitel y Paul J. Deitel</h2>
+        <p>
+            Bienvenido a C# y al mundo de Windows, Internet y la 
+            programación Web con Visual Studio 2005 y la plataforma.
+            NET 2.0. En este libro se presentan las tecnologías 
+            de computación más recientes e innovadoras para los 
+            desarrolladores de software y profesionales de TI.
+        </p>
+        <p><a class="btn btn-default" href="#">Aprende más &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Fundamentos de programación – Luis Joyanes Aguilar </h2>
+        <p>
+            Actualmente, numerosas personas utilizan procesadores 
+            de texto para escribir documentos, ho­jas de cálculo para 
+            realizar presupuestos, nóminas, aplicaciones estadísticas, 
+            navegadores (browsers) para navegar y explorar internet, y
+            programas de correo electrónico para enviar correos (e-mail).
+        </p>
+        <p><a class="btn btn-default" href="#">Aprende más &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Fundamentos de programación en Java</h2>
+        <p>
+             Este libro es el que me gusta mas, muy recomendado
+             para que puedan aprender Java y fundamentos de la 
+             programación. Un libro muy bueno para nobatos y tambien
+             para las personas quieran estudiar o respasar nueva 
+             mente el curso de java.
+        </p>
+        <p><a class="btn btn-default" href="#">Aprende más &raquo;</a></p>
+    </div>
+</div>
+<script type="text/javascript">
+    $(window).load(function () {
+        $('#slider').nivoSlider();
+    });
+</script>
